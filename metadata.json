@@ -1,0 +1,8 @@
+{
+  "name": "Golden Touch Cleaning",
+  "description": "Luxury residential and commercial cleaning services website with direct WhatsApp routing and instant quote request.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
